@@ -4,11 +4,7 @@ maintainer_email 'sitaram9@gmail.com'
 license 'All Rights Reserved'
 description 'Installs/Configures apache'
 long_description 'Installs/Configures apache'
-<<<<<<< HEAD
-version '0.2.1'
-=======
-version '0.1.0'
->>>>>>> f42afc38d14321a4863aa434484de7d8eebcb15b
+version '0.2.0'
 chef_version '>= 12.14' if respond_to?(:chef_version)
 
 # The `issues_url` points to the location where issues for this cookbook are
